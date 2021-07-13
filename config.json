@@ -1,0 +1,27 @@
+{
+  "Bot_Info": {
+"token":"ODQ1MDI0Nzg2MzU4MDc1NDIy.YKa8qA.4zLrOQU9i0ne-wgZ4ZG487mtlKA",
+ "mongodb": "mongodb://hyze:123@cluster0-shard-00-00.b2gt2.mongodb.net:27017,cluster0-shard-00-01.b2gt2.mongodb.net:27017,cluster0-shard-00-02.b2gt2.mongodb.net:27017/Hyze?replicaSet=atlas-fc7a1v-shard-0&ssl=true&authSource=admin",
+  "prefix":".",
+  "activity1": "Hyze Hotel",
+  "type1": "WATCHING",
+  "activity2": "Hyze Hotel",
+  "type2": "PLAYING",
+  "activity3": "Hyze Hotel",
+  "type3": "STREAMING",
+  "activitytime": "15000"
+
+   },
+"Embed_Defaults": {
+     "EmbedColour": "RANDOM"
+ },
+
+ "Giveaway_Options": {
+  "giveawayManagerID": "",
+  "giveawayRoleID": "",
+  "giveawayMention": true,
+  "showMention": true,
+  "hostedBy": true
+}
+
+}   
